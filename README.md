@@ -1,2 +1,2 @@
-# MyFactoryDecora
-My Project is make to change anything in playing for the player to choose
+# MyProjectDecora
+My Project is make to change anything in real time for the player to choose
